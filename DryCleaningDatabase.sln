@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DryCleaningDatabase", "DryCleaningDatabase\DryCleaningDatabase.csproj", "{1C239205-7AE8-49A3-956A-8305C1FD09CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C239205-7AE8-49A3-956A-8305C1FD09CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C239205-7AE8-49A3-956A-8305C1FD09CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C239205-7AE8-49A3-956A-8305C1FD09CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C239205-7AE8-49A3-956A-8305C1FD09CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D574D0D-E387-48F2-918B-4D83EDCE0840}
+	EndGlobalSection
+EndGlobal
